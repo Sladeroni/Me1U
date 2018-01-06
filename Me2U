@@ -1,0 +1,16 @@
+
+public class Me2U {
+/*Author: Slade
+ * Date: 1/6/2018
+ * RMHS
+ */
+	public static void main(String[] args) {
+		System.out.println("From: Slade Lebsack");
+System.out.println("Address: Dell Comp");
+System.out.println("Date: 1/6/2018");
+System.out.println(" ");
+System.out.println("To: Jack Jones");
+System.out.println(" ");
+System.out.println("Message: Help! I'm Trapped in a computer!");
+	}
+}
